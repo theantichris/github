@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/theantichris/go-github-issues"
+	"github.com/theantichris/github"
 	"log"
 	"os"
 )

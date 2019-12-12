@@ -1,5 +1,3 @@
-# go-github-issues
+# github
 
-go-github-issues provides a Go API for the GitHub issue tracker.
-
-See [https://developer.github.com/v3/search/#search-issues](https://developer.github.com/v3/search/#search-issues).
+An API client for the GitHub API written in Go.

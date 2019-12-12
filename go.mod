@@ -1,3 +1,3 @@
-module github.com/theantichris/go-github-issues
+module github.com/theantichris/github
 
 go 1.13
